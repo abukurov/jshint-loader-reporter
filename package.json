@@ -1,13 +1,20 @@
 {
   "name": "jshint-loader-reporter",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Reporter for jshint-loader based on jshint-stylish.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abukurov/jshint-loader-reporter.git"
   },
+  "keywords": [
+    "jshint",
+    "webpack",
+    "loader",
+    "reporter",
+    "stylish"
+  ],
   "author": "abukurov",
   "license": "MIT",
   "bugs": {
