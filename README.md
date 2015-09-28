@@ -1,5 +1,4 @@
-JSHint-Loader Reporter
-==============================
+#JSHint-Loader Reporter 
  
 ## Usage
 
