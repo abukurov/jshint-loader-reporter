@@ -1,0 +1,20 @@
+{
+  "name": "jshint-loader-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abukurov/jshint-loader-reporter.git"
+  },
+  "author": "abukurov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abukurov/jshint-loader-reporter/issues"
+  },
+  "homepage": "https://github.com/abukurov/jshint-loader-reporter#readme",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}
